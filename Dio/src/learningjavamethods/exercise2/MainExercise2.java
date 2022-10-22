@@ -16,7 +16,7 @@ public class MainExercise2 {
         System.out.println("\n\n--------- QUADRANGLE --------- ");
         Area.calculateArea(2d, 4d, 10d);
 
-        System.out.println("\n\n--------- DIAMONG --------- ");
+        System.out.println("\n\n--------- DIAMOND --------- ");
         Area.calculateArea(10f, 10f);
     }
 
